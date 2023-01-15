@@ -1,4 +1,4 @@
-# To Care
+# ToCare
 An application that helps with household tasks and rewards users
 
 ## Features
